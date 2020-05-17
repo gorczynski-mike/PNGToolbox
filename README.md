@@ -1,2 +1,2 @@
 # PNGToolbox
-tools for PNg files
+tools for PNG files
